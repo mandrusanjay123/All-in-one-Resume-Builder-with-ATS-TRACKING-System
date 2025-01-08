@@ -63,6 +63,14 @@ Welcome to **Your All-in-One Resume Builder**, an advanced application designed 
 ```
 6.Open your browser at http://localhost:8501.
 
+## 📂 Folder Structure
+```
+.
+├── app.py              # Main application file
+├── apikey.py          # Contains Google API key
+├── requirements.txt   # Required Python packages
+├── README.md         # Documentation
+```
 
 ## 🎯 **Future Improvements**
    - 🌐 Add support for multiple languages.
