@@ -67,7 +67,7 @@ Welcome to **Your All-in-One Resume Builder**, an advanced application designed 
 ```
 .
 ├── app.py              # Main application file
-├── apikey.py          # Contains Google API key
+├── .env                # Environment variables
 ├── requirements.txt   # Required Python packages
 ├── README.md         # Documentation
 ```
