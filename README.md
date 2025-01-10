@@ -1,4 +1,3 @@
-readme_content = """
 # 👨🏻‍💻📝📊 **Your All-in-One Resume Builder with ATS Tracking System** 🚀  
 
 Welcome to **Your All-in-One Resume Builder**, an advanced application designed to analyze resumes, enhance skills, and maximize your job application success using state-of-the-art AI. 🌟
